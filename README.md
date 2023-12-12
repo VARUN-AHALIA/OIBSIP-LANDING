@@ -1,2 +1,0 @@
-# OIBSIP-LANDING
-Landing page
